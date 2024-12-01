@@ -1,1 +1,1 @@
-# python_project
+This Python program retrieves weather data using the OpenWeather API to check if rain is expected at a specific location {according to latitude and longitude given}. If rain is forecasted, it sends a WhatsApp alert via Twilio to remind the user to bring an umbrella.
